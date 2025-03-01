@@ -17,12 +17,15 @@
 ### **🔹 1. Ketua Komunitas**  
 📌 **Chandra Tri Antomo** - 06.2024.1.07780  
 
+### **🔹 2. Wakil Komunitas**  
+📌 **R Abiyyu Ardi Lian Permadi** - 06.2023.1.07661  
+
 ### **🔹 2. Sekretaris**  
 📌 **Nur Layli Ramadhani Sufyan** - 06.2024.1.07832  
+📌 **Amelya Sofia Anggraini** - 06.2023.1.07654
 
 ### **🔹 3. Bendahara**  
-📌 **Amelya Sofia Anggraini** - 06.2023.1.07654  
-
+📌 **Raesyitha Elga Rolobessy** - 06.2023.1.07695
 ---
 
 ## **🔹 DIVISI-DIVISI UTAMA**  
@@ -30,12 +33,10 @@
 ### **5️⃣ Divisi Web Development**  
 📌 **Ketua:** **Revellio Christopel Oktufovian Lumbaa**  
 📌 **Anggota:**  
-- Hasan Abdul Latif  
-- Rafly Rizky Pratama  
-- Faqih Rozaq Nugroho  
-- Fedora Asyiqi  
-- Rizka Amalia  
 - Muhammad Naufal Rizki  
+- Putri Salsazadila Syam
+- Fedora Asyiqi  
+- Faqih Rozaq Nugroho
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Mengadakan sesi pembelajaran dan proyek bersama terkait web development.  
@@ -47,12 +48,10 @@
 ### **6️⃣ Divisi Pemrograman Umum**  
 📌 **Ketua:** **Moch Gendy Alken Pratama**  
 📌 **Anggota:**  
+- Aissy Nur Ika Hafifah Putri
 - Delyn Seklysa Rahmadni P  
-- Timy Kakeru  
-- Ridho Pangestu  
-- Gregoria Stefani Kue Siga  
 - Kevin Stevanus Suwardi  
-- Tarishah Aridhah Zhafirah  
+- Khaifullah Rafiuddin Lukman
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Menyelenggarakan kelas atau diskusi seputar pemrograman berbasis logika dan algoritma.  
@@ -62,14 +61,12 @@
 ---
 
 ### **7️⃣ Divisi Event & Workshop**  
-📌 **Ketua:** **Maria Yesinta Fernanda**  
+📌 **Ketua:** **Hasan Abdul Latif**  
 📌 **Anggota:**  
-- Putri Salsazadila Syam  
-- Firman Ardiansyah  
-- Rangga Adisyah Putra Pratama  
-- Haza Satria Nagari  
-- Madadina Adilah Pamuji  
-- Aissy Nur Ika Hafifah Putri  
+- M Syahrur Ramadhani Putra
+- Rangga Adisyah Putra Pratama
+- Yulia Ananda Darmayanti 
+- Gregoria Stefani Kue Siga
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Mengorganisir seminar, workshop, dan hackathon terkait coding & web development.  
@@ -80,12 +77,10 @@
 
 ### **8️⃣ Divisi Media & Publikasi**  
 📌 **Ketua:** **Nazwa Zahira Eka Ariyanto**  
-📌 **Anggota:**  
-- Khalfullah Rafiuddin Lukman  
-- Feri Januwar Permasyah  
-- Yulia Ananda Damayanti  
-- Ahmad Maulana Ismaindra  
-- Firman Ardiansyah  
+📌 **Anggota:**
+- Rizka Amalia
+- Ridho Pangestu
+- Firman Ardiansyah
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Mengelola media sosial komunitas (Instagram, Twitter, Discord, dll.).  
@@ -95,12 +90,11 @@
 ---
 
 ### **9️⃣ Divisi Riset & Pengembangan (R&D)**  
-📌 **Ketua:** **Raesyitha Elga Rolobessy**  
-📌 **Anggota:**  
-- Fedora Asyiqi  
-- Rangga Adisyah Putra Pratama  
-- Ahmad Maulana Ismaindra  
-- Gregoria Stefani Kue Siga  
+📌 **Ketua:** **Ahmad Maulana Ismaindra**  
+📌 **Anggota:**
+- Rafly Rizky Pratama
+- Madadina Adilah Pamuji
+- Feri Januwar Permasyah
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Mempelajari tren terbaru di dunia teknologi dan pemrograman.  
@@ -110,15 +104,13 @@
 ---
 
 ### **🔟 Divisi Hubungan & Kemitraan**  
-📌 **Ketua:** **Ahmad Maulana Ismaindra**  
+📌 **Ketua:** **Tarishah Aridhah Zhafirah**  
 📌 **Anggota:**  
-- Feri Januwar Permasyah  
-- Putri Salsazadila Syam  
-- Maria Yesinta Fernanda  
-- Tarishah Aridhah Zhafirah  
-- Aissy Nur Ika Hafifah Putri  
+- Haza Satria Nagari
+- Timy Kakeru
+- Maria Yesinta Fernanda 
 
 📌 **Tugas & Tanggung Jawab:**  
 ✅ Menjalin kerja sama dengan komunitas, perusahaan IT, dan kampus lain.  
 ✅ Mencari sponsor atau pendanaan untuk mendukung kegiatan komunitas.  
-✅ Menghubungkan anggota dengan kesempatan magang atau proyek freelance.  
+✅ Menghubungkan anggota dengan kesempatan magang atau proyek freelance. 
