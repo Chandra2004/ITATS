@@ -24,7 +24,7 @@
 > "Blueprint ini menjamin keberlanjutan operasional komunitas 'Belajar Koding' sebagai wadah pengembangan talenta digital yang inklusif dan kolaboratif. Kami berkomitmen untuk membangun ekosistem belajar yang dinamis, adaptif, dan relevan dengan perkembangan industri digital."
 
 - **Stempel Resmi Komunitas**  
-- **Tanggal Efektif:** [DD/MM/YYYY]
+- **Tanggal Efektif:** [10/03/2025]
 
 ---
 
