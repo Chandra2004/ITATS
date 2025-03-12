@@ -1,0 +1,48 @@
+# **Studi Kasus RPL: Digitalisasi Praktikum Teknik Sipil Menggunakan PHP Native**
+
+## **1. Perencanaan (Planning)**
+Pada tahap ini, dilakukan perencanaan pengembangan sistem digitalisasi praktikum Teknik Sipil yang sebelumnya dilakukan secara manual. Beberapa hal yang direncanakan meliputi:
+
+- **Cakupan Proyek**:
+  - Sistem berbasis web dengan fitur utama seperti registrasi, pembayaran, penjadwalan, asistensi, dan penilaian.
+
+- **Teknologi yang Digunakan**:
+  - Backend menggunakan **PHP Native** dan database **MySQL**.
+  - Frontend menggunakan **HTML, CSS (Tailwind CSS), dan JavaScript**.
+  - Sistem realtime seperti chat dan video call menggunakan **AJAX polling atau WebSocket**.
+
+- **Identifikasi Pengguna (User Role)**:
+  - **SuperAdmin**: Kepala laboratorium yang memiliki kontrol penuh atas sistem.
+  - **Pembimbing**: Dosen yang membimbing mahasiswa dalam praktikum.
+  - **Asisten**: Bertugas mengatur kelompok, jadwal, dan memantau mahasiswa.
+  - **Praktikan**: Mahasiswa yang mengikuti praktikum.
+
+---
+
+## **2. Analisis Kebutuhan (Requirement Analysis)**
+Sistem ini dirancang untuk menggantikan metode manual dengan sistem digital yang lebih efisien. Berikut adalah kebutuhan utama sistem:
+
+### **Kebutuhan Fungsional**
+- Registrasi dan login untuk semua pengguna.
+- Manajemen data pengguna (SuperAdmin, Pembimbing, Asisten, dan Praktikan).
+- Verifikasi pembayaran untuk praktikum.
+- Pemilihan modul praktikum oleh mahasiswa.
+- Penjadwalan dan pembagian kelompok.
+- Asistensi bertahap oleh Asisten, SuperAdmin, dan Pembimbing.
+- Pengumpulan laporan praktikum dan proses penilaian.
+- Fitur pengulangan praktikum bagi mahasiswa yang nilainya kurang.
+- Sistem komunikasi realtime (chat dan video call).
+- Form builder untuk pembuatan laporan dan evaluasi praktikum.
+
+### **Kebutuhan Non-Fungsional**
+- Keamanan data dengan sistem autentikasi berbasis session.
+- Performa sistem yang optimal meskipun diakses oleh banyak pengguna.
+- Kemudahan penggunaan dengan tampilan UI/UX yang intuitif.
+- Skalabilitas agar sistem dapat dikembangkan lebih lanjut.
+
+---
+
+## **3. Desain Sistem (System Design)**
+Sistem ini dirancang dengan arsitektur sederhana yang tetap modular untuk memudahkan pengembangan.
+
+### **Struktur Folder Proyek**
