@@ -16,8 +16,6 @@
 1️⃣ **Registrasi**
 
 - Praktikan mengisi profil (foto, nama, NPM, telepon, email, password).
-- SuperAdmin tidak perlu registrasi.
-- Asisten didaftarkan oleh SuperAdmin.
 
 2️⃣ **Verifikasi Pembayaran**
 
