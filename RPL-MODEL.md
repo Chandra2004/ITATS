@@ -35,6 +35,9 @@ Model Waterfall adalah pendekatan pengembangan perangkat lunak yang berurutan, d
 
 ---
 
+![17429555189973511364834407520621](https://github.com/user-attachments/assets/c0c2d40e-342c-484d-8eb0-fd506170794c)
+
+
 ### **3. Model Spiral (Pilihan untuk Studi Kasus)**
 #### **Pengertian**
 Model Spiral adalah pendekatan pengembangan perangkat lunak yang menggabungkan elemen dari model Waterfall dan Prototyping dengan fokus utama pada manajemen risiko dan iterasi bertahap. Model ini dirancang untuk menangani proyek yang kompleks dan dinamis, di mana kebutuhan sering berubah dan risiko harus dikelola dengan baik.
